@@ -1,5 +1,5 @@
 # bugherd-viewer
-View all Bug Herd Tasks at once.
+View all BugHerd Tasks at once.
 
 
 All you need to do is upload this script to your website and plug in your API key.
